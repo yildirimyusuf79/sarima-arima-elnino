@@ -211,7 +211,7 @@ Run the cells sequentially. The notebook is self-contained and will automaticall
 
 **Yusuf Yıldırım**  
 Graduation Project — 2026  
-📧 yusufyildirim846@gmail.com  
+� [linkedin.com/in/yusuf-yıldırım-190445295](https://www.linkedin.com/in/yusuf-yıldırım-190445295)  
 🔗 [github.com/yildirimyusuf79](https://github.com/yildirimyusuf79)
 
 ---
